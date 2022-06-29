@@ -1,3 +1,3 @@
 # sonhtml
 son html
-[htpss://patika.dev](patika.dev)
+[https://patika.dev](patika.dev)
